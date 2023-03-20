@@ -1,0 +1,4 @@
+[submodule "sub-test-json-repo"]
+	path = sub-test-json-repo
+	url = https://github.com/cOdehOng-dev/sub-test-json-repo.git
+	branch = master
